@@ -1,0 +1,47 @@
+{
+	"name": "ministry-wise-explorer",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@nivo/bar": "^0.56.2",
+		"@nivo/circle-packing": "^0.56.2",
+		"@nivo/treemap": "^0.56.2",
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.3.2",
+		"@testing-library/user-event": "^7.1.2",
+		"antd": "^4.1.1",
+		"d3": "^4.13.0",
+		"lodash": "^4.17.15",
+		"nivo": "^0.31.0",
+		"react": "^16.13.1",
+		"react-countup": "^4.3.3",
+		"react-dom": "^16.13.1",
+		"react-intersection-observer": "^8.26.1",
+		"react-router-dom": "^5.1.2",
+		"react-scripts": "3.4.1",
+		"react-typist": "^2.0.5",
+		"truncate-html": "^1.0.3",
+		"typewriter-effect": "^2.13.0"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}
