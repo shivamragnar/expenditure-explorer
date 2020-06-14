@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans");
+
+@import "~antd/dist/antd.css";
+/* 
+.App {
+	text-align: center;
+} */
+
+.header-text {
+	font-family: "Fira Sans", sans-serif;
+	font-size: 20px;
+	color: #f2f2f2;
+}
+.app {
+	width: 100vw;
+	height: 100vw;
+}
